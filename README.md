@@ -21,10 +21,10 @@
 git clone https://github.com/Forhadj/Facbook_id_coning.git
 cd Facbook_id_coning
 
-# Install dependencies
+
 pip install -r requirements.txt
 
-# Run on PC (Windows/Linux)
+
 python app.py
 
 # Run on Android (Termux)
