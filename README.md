@@ -19,4 +19,4 @@
 **PC (Windows/Linux) & Termux (Android):**
 
 ```bash
-git clone https://github.com/Forhadj/Facbook_old_id_coning.git && cd Facbook_old_id_coning && pip install -r requirements.txt && python app.py
+git clone https://github.com/Forhadj/Facbook_old_id_coning.git && cd Facbook_old_id_coning && python app.py
