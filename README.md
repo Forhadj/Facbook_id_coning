@@ -1,4 +1,4 @@
-# 📘 Facebook ID Cloning Tool
+# 📘 Facebook old ID Cloning Tool
 
 ![Tool Screenshot](https://github.com/Forhadj/Facbook_id_coning/blob/main/IMG_20250908_090755.jpg)
 
@@ -19,4 +19,4 @@
 **PC (Windows/Linux) & Termux (Android):**
 
 ```bash
-git clone https://github.com/Forhadj/Facbook_id_coning.git && cd Facbook_id_coning && pip install -r requirements.txt && python app.py
+git clone https://github.com/Forhadj/Facbook_old_id_coning.git && cd Facbook_old_id_coning && pip install -r requirements.txt && python app.py
