@@ -14,20 +14,9 @@
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ One-line Installation & Run
+
+**PC (Windows/Linux) & Termux (Android):**
 
 ```bash
-# Clone the repository
-git clone https://github.com/Forhadj/Facbook_id_coning.git
-cd Facbook_id_coning
-
-#
-pip install -r requirements.txt
-
-#
-python app.py
-
-# Run on Android (Termux)
-termux-setup-storage
-cd /storage/emulated/0/Facbook_id_coning
-python app.py
+git clone https://github.com/Forhadj/Facbook_id_coning.git && cd Facbook_id_coning && pip install -r requirements.txt && python app.py
